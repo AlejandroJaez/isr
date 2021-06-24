@@ -1,0 +1,68 @@
+[
+    {
+      "from": 0.01,
+      "to": 644.58,
+      "fixed_tax_fee": 0,
+      "rate_tax_fee": 1.92
+    },
+    {
+      "from": 644.59,
+      "to": 5470.92,
+      "fixed_tax_fee": 12.38,
+      "rate_tax_fee": 6.4
+    },
+    {
+      "from": 5470.93,
+      "to": 9614.66,
+      "fixed_tax_fee": 321.26,
+      "rate_tax_fee": 10.88
+    },
+    {
+      "from": 9614.67,
+      "to": 11176.62,
+      "fixed_tax_fee": 772.1,
+      "rate_tax_fee": 16
+    },
+    {
+      "from": 11176.63,
+      "to": 13381.47,
+      "fixed_tax_fee": 1022.01,
+      "rate_tax_fee": 17.92
+    },
+    {
+      "from": 13381.48,
+      "to": 26988.5,
+      "fixed_tax_fee": 1417.12,
+      "rate_tax_fee": 21.36
+    },
+    {
+      "from": 26988.51,
+      "to": 42537.58,
+      "fixed_tax_fee": 4323.58,
+      "rate_tax_fee": 23.52
+    },
+    {
+      "from": 42537.59,
+      "to": 81211.25,
+      "fixed_tax_fee": 7980.73,
+      "rate_tax_fee": 30
+    },
+    {
+      "from": 81211.26,
+      "to": 108281.67,
+      "fixed_tax_fee": 19582.83,
+      "rate_tax_fee": 32
+    },
+    {
+      "from": 108281.68,
+      "to": 324845.01,
+      "fixed_tax_fee": 28245.36,
+      "rate_tax_fee": 34
+    },
+    {
+      "from": 324845.02,
+      "to": 9999999999,
+      "fixed_tax_fee": 101876.9,
+      "rate_tax_fee": 35
+    }
+   ]
